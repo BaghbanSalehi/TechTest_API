@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.4.2)
+  - SnapKit (5.0.1)
+  - SwiftSpinner (2.2.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - SnapKit (~> 5.0.0)
+  - SwiftSpinner
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SnapKit
+    - SwiftSpinner
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftSpinner: f9b59477fe107427f2b5b835497d6636fa167ede
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 07323a82325a3f44c168265bcc899fb71ede6bf3
+
+COCOAPODS: 1.10.1
